@@ -14,7 +14,22 @@
 
     <script src="/lib/d3.js" charset="utf-8"></script>
     <script src="/lib/c3.min.js"></script>
-    <script src="/index.js"></script>
+    <script>
+        var chart = c3.generate({
+            data: {
+                url: "/tour_data.json",
+            },
+            axis: {
+                x: {
+                    type: 'category',
+                    categories: ['cat1', 'cat2', 'cat3', 'cat4', 'cat5', 'cat6', 'cat7', 'cat8', 'cat9', "cat10", "cat11", "cat12"]
+                }
+            }
+        });
+
+
+
+    </script>
 </body>
 
 </html>

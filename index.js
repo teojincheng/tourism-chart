@@ -5,7 +5,21 @@ var chart = c3.generate({
     type: "line",
     axis: {
       x: {
-        type: "categorized",
+        type: "category",
+        categories: [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sept",
+          "Oct",
+          "Nov",
+          "Dec",
+        ],
       },
     },
   },

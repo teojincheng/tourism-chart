@@ -1,77 +1,64 @@
 {
-   "records":[
-      {
-         "year":2019,
-         "month":"Jan",
-         "arrivals":67151
-      
-},
-      {
-         "year":2019,
-         "month":"Feb",
-         "arrivals":56240
-      
-},
-      {
-         "year":2019,
-         "month":"Mar",
-         "arrivals":65411
-      
-},
-      {
-         "year":2019,
-         "month":"Apr",
-         "arrivals":54176
-      
-},
-      {
-         "year":2019,
-         "month":"May",
-         "arrivals":51424
-      
-},
-      {
-         "year":2019,
-         "month":"Jun",
-         "arrivals":67029
-      
-},
-      {
-         "year":2019,
-         "month":"Jul",
-         "arrivals":71303
-      
-},
-      {
-         "year":2019,
-         "month":"Aug",
-         "arrivals":54833
-      
-},
-      {
-         "year":2019,
-         "month":"Sep",
-         "arrivals":49468
-      
-},
-      {
-         "year":2019,
-         "month":"Oct",
-         "arrivals":52630
-      
-},
-      {
-         "year":2019,
-         "month":"Nov",
-         "arrivals":63305
-      
-},
-      {
-         "year":2019,
-         "month":"Dev",
-         "arrivals":76097
-      
-}
-   
-]
+  "records": [
+    {
+      "year": 2019,
+      "month": "Jan",
+      "arrivals": 67151
+    },
+    {
+      "year": 2019,
+      "month": "Feb",
+      "arrivals": 56240
+    },
+    {
+      "year": 2019,
+      "month": "Mar",
+      "arrivals": 65411
+    },
+    {
+      "year": 2019,
+      "month": "Apr",
+      "arrivals": 54176
+    },
+    {
+      "year": 2019,
+      "month": "May",
+      "arrivals": 51424
+    },
+    {
+      "year": 2019,
+      "month": "Jun",
+      "arrivals": 67029
+    },
+    {
+      "year": 2019,
+      "month": "Jul",
+      "arrivals": 71303
+    },
+    {
+      "year": 2019,
+      "month": "Aug",
+      "arrivals": 54833
+    },
+    {
+      "year": 2019,
+      "month": "Sep",
+      "arrivals": 49468
+    },
+    {
+      "year": 2019,
+      "month": "Oct",
+      "arrivals": 52630
+    },
+    {
+      "year": 2019,
+      "month": "Nov",
+      "arrivals": 63305
+    },
+    {
+      "year": 2019,
+      "month": "Dec",
+      "arrivals": 76097
+    }
+  ]
 }

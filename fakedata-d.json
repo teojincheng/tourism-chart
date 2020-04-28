@@ -1,68 +1,52 @@
 {
   "RECORDS": [
     {
-      "genre": "Action",
-      "count": "64"
+      "genre": "Jan",
+      "count": "67151"
     },
     {
-      "genre": "Animation",
-      "count": "66"
+      "genre": "Feb",
+      "count": "56240"
     },
     {
-      "genre": "Children",
-      "count": "60"
+      "genre": "Mar",
+      "count": "65411"
     },
     {
-      "genre": "Classics",
-      "count": "57"
+      "genre": "Apr",
+      "count": "54176"
     },
     {
-      "genre": "Comedy",
-      "count": "58"
+      "genre": "May",
+      "count": "51424"
     },
     {
-      "genre": "Documentary",
-      "count": "68"
+      "genre": "Jun",
+      "count": "67029"
     },
     {
-      "genre": "Drama",
-      "count": "62"
+      "genre": "Jul",
+      "count": "71303"
     },
     {
-      "genre": "Family",
-      "count": "69"
+      "genre": "Aug",
+      "count": "54833"
     },
     {
-      "genre": "Foreign",
-      "count": "73"
+      "genre": "Sep",
+      "count": "49468"
     },
     {
-      "genre": "Games",
-      "count": "61"
+      "genre": "Oct",
+      "count": "52630"
     },
     {
-      "genre": "Horror",
-      "count": "56"
+      "genre": "Nov",
+      "count": "63305"
     },
     {
-      "genre": "Music",
-      "count": "51"
-    },
-    {
-      "genre": "New",
-      "count": "63"
-    },
-    {
-      "genre": "Sci-Fi",
-      "count": "61"
-    },
-    {
-      "genre": "Sports",
-      "count": "74"
-    },
-    {
-      "genre": "Travel",
-      "count": "57"
+      "genre": "Dec",
+      "count": "76097"
     }
   ]
 }

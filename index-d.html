@@ -38,6 +38,16 @@
                 .attr("class", "axis axis-y")
                 .call(d3.axisLeft(y).ticks(10).tickSize(8));
 
+            g.append("text")
+                .attr("class", "y label")
+                .attr("text-anchor", "end")
+                .attr("y", 6)
+                .attr("dy", ".75em")
+                .text("Visits");
+
+
+
+
             g.selectAll(".bar")
                 .data(data)
                 .enter().append("rect")
